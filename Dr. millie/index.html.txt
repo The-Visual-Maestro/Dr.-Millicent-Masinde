@@ -1,0 +1,1 @@
+[{"insert":"<!DOCTYPE html>\n<html>\n<head>\n    <title>Dr. Millicent Masinde's QR Code</title>\n</head>\n<body>\n    <h1>Scan this QR Code to Save My Contact</h1>\n    <img src=\"qrcode.png\" alt=\"Dr. Millicent Masinde's QR Code\" width=\"300\">\n</body>\n</html>\n"}]
